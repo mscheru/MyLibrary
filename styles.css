@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  text-align: center;
+  font-family: "Quicksand", cursive, sans-serif;
+}
+
+.left {
+  width: 80%;
+  background-color: #8ec4dd;
+}
+
+.sidebar {
+  background-color: #C175FF;
+  width: 20%;
+  height: 100vh;
+}
+
+.books {
+  display: flex;
+  flex-wrap: wrap;
+}
